@@ -1,0 +1,16 @@
+.CalendarMainContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.modalTurnoMainContainer{
+    font-family: monospace;
+}
+.modal-title{
+    
+    font-family: monospace;
+    text-align: center;
+    margin-left: 12px;
+}

@@ -1,0 +1,50 @@
+.mainRecoverContainer{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+    margin-top:3rem;
+
+}
+.titleRecover{
+    margin:5px 0px 5px 0px;
+    font-family: monospace;
+}
+.secondTitleRecover{
+    margin:5px 0 5px 0;
+    font-style: italic;
+}
+.secondTitleRecover span{
+    color:brown;
+}
+.formRecover{
+    background-color: rgb(0, 99, 160, 1);
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 1%;
+    margin-top:2rem;
+    padding: 10px;
+    box-shadow: 2px 0px 20px 0px #12122c;
+    margin-bottom:2rem;
+}
+.labelRecoverForm{
+    color: white;
+}
+.secondTitleRecover{
+    color:black;
+}
+
+
+
+.buttonRecoverContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.registerButton{
+    background-color: #0a408c;
+}
+.submitButton{
+    background-color: #37d049;
+}

@@ -1,0 +1,9 @@
+
+.ImageTopFooter{
+    position: absolute;
+    bottom: 192px;
+}
+.ImageTopFooter img{
+    width: 100%;
+    height:100%;
+}

@@ -1,0 +1,35 @@
+.AdDetailContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 3rem;
+}
+
+         
+.DetailName{
+    font-size: 2rem;
+}
+
+.licenseDetail,.numeroDetail,.specialityDetail,.serviceDetail,.medicalPictureButton{
+    margin-top: 1rem;
+}
+
+.imagenLicencia {
+  border: 2px solid rgb(36 54 126);
+  width: 200px;
+  height: 200px;
+  margin-top: 16px;
+  /* border: 0.5px solid #0c0c0c;  */
+  border-radius: 25px;
+  overflow: hidden;
+}
+.imagenLicencia img{
+object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+.medicalPictureButton{
+    width: 150px;
+    
+}

@@ -1,0 +1,4 @@
+.servicesMainContainer{
+    display: flex;
+    flex-direction: column;
+}

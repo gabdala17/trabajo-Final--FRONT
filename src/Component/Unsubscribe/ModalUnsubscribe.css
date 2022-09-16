@@ -1,0 +1,27 @@
+.bajaButton{
+    background-color: rgb(40, 111, 192);
+    margin-left: 2rem;
+    
+}
+.bajaButton:hover{
+    background-color: rgb(255, 0, 43);
+    color: black;
+    transition: 800ms;
+}
+
+.headerBaja{
+    background-color: #4c9be1;
+    text-align: center;
+}
+.modalTitleBaja{
+    color:linen;
+}
+.formLabelBaja{
+    
+    font-family: fangsong;
+    text-align: justify;
+
+}
+.yesButtonBaja{
+    margin-left: 10px;
+}

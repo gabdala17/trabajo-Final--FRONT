@@ -1,0 +1,43 @@
+.pending{
+    color:rgb(135, 145, 0);
+    padding-inline-start: 30px;
+    padding-top: 5px;
+   
+}
+.completed{
+    color:rgb(5, 179, 34);
+    padding-inline-start: 30px;
+    padding-top: 5px;
+}
+.cancelled{
+    color:rgb(145, 24, 3);
+    padding-inline-start: 30px;
+    padding-top: 5px;
+}
+
+.onecont{
+    display: flex;
+    flex-direction: row;
+ }
+
+ .conteinerApp{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-color: #e4f4f6;
+    border-radius: 1px;
+    background-size: cover;
+    border-style: solid;
+    scroll-margin: 200px;
+    width: 400px;
+    height: 300px;
+    
+}
+
+.text{
+    padding-top: 10px;
+   padding-inline-start: 50px; 
+   
+}

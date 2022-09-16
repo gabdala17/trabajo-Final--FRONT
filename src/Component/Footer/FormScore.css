@@ -1,0 +1,23 @@
+/* .modal-content{
+    align-items: center;
+} */
+.formContainerScore{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+
+}
+.modalTitle{
+    font-family: monospace;
+}
+.form-control{
+    margin-top: 1rem;
+}
+
+.buttonScore{
+    margin: 25px;
+    margin-top: 0px;
+}
+.labelForm{
+    font-family: monospace;
+}

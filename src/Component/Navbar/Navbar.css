@@ -1,0 +1,65 @@
+
+
+  .navBg{
+    display: flex;
+    /* background-color: rgba(16,72,144,1) ; */
+    background-image: linear-gradient( 96.5deg, rgba(39,103,187,1) 10.4%, rgba(16,72,144,1) 87.7% );
+  }
+  .logoNAv{
+    width: 6.5rem;
+    height: 6rem;
+  }
+  .logoNAv:hover{
+    box-shadow:  1px 3px 20px 1px;
+    transition: 700ms;
+  }
+ 
+
+  .me-auto{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+   
+  }
+  .spaceX{
+    
+    margin-left: 2rem;
+  }
+  .closeSessionContainer{
+    display: flex;
+    flex-direction: column;
+    
+
+  }
+
+  .buttonNav{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 6%;
+    margin-left: 2rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    background-color: #319133;
+    color: black;
+    align-items: center;
+  }
+  .buttonNav:hover{
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background-color: #037405;
+    transition: 500ms;
+  }
+  .imagenPerfil{
+    width:50px;
+    height:50px;
+  }
+  .imagenPerfil:hover{
+    background-color: white;
+    border-radius: 25%;
+    transition: background-color 600ms;
+  }
+  

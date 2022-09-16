@@ -1,0 +1,25 @@
+.aboutMedicine{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    
+    justify-content: space-around;
+
+}
+.aboutTitle{
+    display: contents;
+}
+.titleAbout{
+    display: block;
+}
+.aboutText{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4%;
+    justify-content: center;
+}
+.aboutCards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

@@ -1,0 +1,11 @@
+.infoUserProfileContainer{
+    margin-top: 3rem;
+
+}
+.nameProfile{
+    font-size: 2rem;
+    font-family: fangsong;
+}
+.fechaProfile,.emailProfile,.paisProfile,.provinciaProfile,.localidadProfile{
+    margin:0.5rem;
+}

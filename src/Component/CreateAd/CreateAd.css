@@ -1,0 +1,40 @@
+/* .ValidateCOntainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('https://i.pinimg.com/originals/de/a5/55/dea5551a58c21c1c87c711f01520daac.jpg');
+    
+
+} */
+
+/* @media (min-width: 1000px) {
+    .ValidateCOntainer {
+	    background-size: cover;
+        background-image: url('https://i.pinimg.com/originals/de/a5/55/dea5551a58c21c1c87c711f01520daac.jpg');
+   }
+} */
+/* 
+.Validate{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 3px solid #95a6e6;
+    margin:1rem;
+    width:70%;
+    background-color:rgb(255, 255, 255,0.6);
+    
+
+} */
+/* .formContainer{
+    width: 50%;
+}
+.registerNforgottenButtons{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 50%;
+    
+}
+.registerNforgottenButtons button{
+    margin: 5px 0px 5px 0px;
+} */

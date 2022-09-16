@@ -1,0 +1,164 @@
+.navper{
+    display: flex;
+    
+}
+.nuestracontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+.primercont{
+    
+   display: flex;
+   flex-direction: row;
+  
+}
+
+.micontainerImage{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: white;
+    border-color: #e4f4f6;
+    border-radius: 1px;
+    background-size: cover;
+    border-style: solid;
+    scroll-margin: 200px;
+    width: 250px;
+}
+/* .micontainerInfo{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-color: #e4f4f6;
+    border-radius: 1px;
+    background-size: cover;
+    border-style: solid;
+    scroll-margin: 200px;
+    width: 550px;
+    height: 350px;
+
+} */
+.conteinerads{
+    padding: 4%;
+}
+.adsprofile{
+    display: flex !important;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+  gap: 10px 20px;
+  padding: 4%;
+}
+.medicalRecorder{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+    scroll-margin: 200px;
+    width: 100%;
+    min-height: 400px;
+}
+.miHistoryApp{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+    scroll-margin: 200px;
+    width: 100%;
+    min-height: 400px;
+}
+.miadminApp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+    scroll-margin: 200px;
+    width: 100%;
+    min-height: 400px;
+
+}
+.miFavorites{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    margin-top:2rem;
+}
+.favoritesInnerContent{
+    display: flex;
+    flex-wrap: wrap;
+}
+.favoritesTitle{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    /* text-shadow: 2px 2px 7px black; */
+}
+
+
+.SignOut{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.miboton{
+    margin-top:50px ;
+   
+   
+}
+.seconcont{
+    
+    display: flex;
+    flex-direction: row;
+}
+.misbotones{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.NavBarLoginFooterContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+/* .miadminApp{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    background-color: white;
+    border-color: #e4f4f6;
+    border-radius: 1px;
+    background-size: cover;
+    border-style: solid;
+    scroll-margin: 400px;
+    width: 1000px;
+    height: 600px;
+    margin-left: 15%;
+
+} */
+
+.infoPerfilUser{
+    display: flex;
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 6rem;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.profileTitles{
+    font-size: 18px;
+    margin: 0.8rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
